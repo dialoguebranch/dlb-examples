@@ -2,7 +2,7 @@
 This repository contains examples of valid .dlb scripts that may be used to test your applications or to learn how to use the Dialogue Branch Language.
 
 ## Structure
-This repository is structured like a DialogueBranch project, so that the root contains folders for the different supported languages. The `en` folder contains the .dlb scripts.
+This repository is structured like a DialogueBranch project, so that the root contains folders for the different supported languages. The `en` folder contains the .dlb scripts (in English).
 
 ## Examples Included
  - basic.dlb - The first example you should check, showing the basics of structuring a Dialogue Branch script.
